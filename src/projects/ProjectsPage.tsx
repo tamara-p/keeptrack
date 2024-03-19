@@ -35,6 +35,7 @@ function ProjectsPage() {
 //        }
 //      });
 //  }, []);
+//
 
 // Using async and await-------------
   useEffect(() => {
