@@ -212,7 +212,7 @@
     },
     {
       "id": 22,
-      "name": "Rolfson, Kertzmann and Block",
+      "name": "aaaa",
       "description": "Optional context-sensitive concept. Tempore nam saepe aperiam neque id et fugiat aut beatae.",
       "imageUrl": "/assets/placeimg_500_300_arch1.jpg",
       "contractTypeId": 4,
@@ -532,13 +532,13 @@
     },
     {
       "id": 54,
-      "name": "Anderson LLC",
+      "name": "Andersbnm,mnbvcvbnm",
       "description": "Diverse incremental algorithm. Expedita laudantium sit quisquam sit nobis eum nam ea natus.",
       "imageUrl": "/assets/placeimg_500_300_arch10.jpg",
       "contractTypeId": 2,
       "contractSignedOn": "2015-01-21T07:03:49.836Z",
       "budget": 74221,
-      "isActive": false
+      "isActive": true
     },
     {
       "id": 55,
@@ -732,7 +732,7 @@
     },
     {
       "id": 74,
-      "name": "Armstrong, Crona and Ziemann",
+      "name": "asdfds",
       "description": "Switchable bifurcated task-force. Hic sed at et id et et qui quis dolores.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 2,
@@ -762,7 +762,7 @@
     },
     {
       "id": 77,
-      "name": "Abshire and Sons",
+      "name": "asdfghjhgfds",
       "description": "Ergonomic mission-critical knowledge user. Consequatur pariatur eos molestiae qui aut dolorem laudantium nesciunt doloribus.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 6,
@@ -942,7 +942,7 @@
     },
     {
       "id": 95,
-      "name": "Armstrong - Hands",
+      "name": "asdfgfds",
       "description": "Persistent 3rd generation capability. Sint omnis asperiores voluptas sapiente delectus blanditiis earum ut voluptatem.",
       "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
       "contractTypeId": 2,
