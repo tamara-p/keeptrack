@@ -51,6 +51,16 @@ function convertToProjectModel(item: any): Project {
 }
 
 const projectAPI = {
+
+  //Return project by id
+  find(id: number){
+    return fetch(`${url}/${id}`)
+      .then(checkStatus)
+      .then(parseJSON)
+      .then(convertToProjectModel);
+  },
+
+// Loading if not connected to API, error if cant connect. 
   get(page = 1, limit = 20) {
     return fetch(`${url}?_page=${page}&_limit=${limit}&_sort=name`)
       .then(delay(600))
