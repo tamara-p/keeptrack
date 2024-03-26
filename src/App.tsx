@@ -5,12 +5,15 @@ import ProjectsPage from './projects/ProjectsPage';
 import {BrowserRouter as Router, Routes, Route, NavLink} from 'react-router-dom';
 import HomePage from './home/HomePage';
 import ProjectPage from './projects/ProjectPage';
+import { Provider } from 'react-redux';
+import { store } from './state';
 //import Greeter from './projects/Props';
 
 
 
 function App() {
  return (
+  <Provider store={store}>
   <Router> 
     <header className="sticky">
       <span className="logo"> 
@@ -32,10 +35,8 @@ function App() {
       </Routes>
     </div>
   </Router>
+  </Provider>
  );
 };
-
-
-
 
 export default App;
