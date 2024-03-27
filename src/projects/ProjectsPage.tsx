@@ -1,6 +1,6 @@
 
 //import React, {Fragment, useState, useEffect } from 'react';
-import React, { useEffect } from 'react';
+import React, { Fragment, useEffect } from 'react';
 //import {projectAPI} from './projectAPI';
 import { MOCK_PROJECTS } from './MockProjects';
 import ProjectList from './ProjectList';
