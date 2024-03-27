@@ -45,7 +45,7 @@ function ProjectsPage() {
             const data = await projectAPI.get(currentPage);
            // setError('');
 
-          if (currentPage ==1){
+          if (currentPage === 1){
             setProjects(data);
           } else{
             setProjects((project) => [...projects, ...data]);
